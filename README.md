@@ -2,8 +2,7 @@
 The objective of this project is to classify whether upcoming product will have positive or negative Sentiment.   
 
 
-![alt text](https://github.com/shreyaswankhede/Sentiment-Analysis-on-Online-Product-Reviews/blob/master/s1.png
- "Correlation between features")
+
 
 ***
 
@@ -88,7 +87,4 @@ The dataset contains 71044 rows and 25 columns
 ***
 
 
-<br>Thank You!	
-<p><!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/shreyaswankhede" aria-label="Follow @shreyaswankhede on GitHub">Follow @shreyaswankhede</a>
 
